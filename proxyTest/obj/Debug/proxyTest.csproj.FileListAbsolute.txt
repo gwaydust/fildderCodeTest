@@ -1,0 +1,9 @@
+E:\Projects\proxyTest\proxyTest\bin\Debug\proxyTest.exe.config
+E:\Projects\proxyTest\proxyTest\bin\Debug\proxyTest.exe
+E:\Projects\proxyTest\proxyTest\bin\Debug\proxyTest.pdb
+E:\Projects\proxyTest\proxyTest\bin\Debug\BasicFormatsForCore.dll
+E:\Projects\proxyTest\proxyTest\bin\Debug\BCMakeCert.dll
+E:\Projects\proxyTest\proxyTest\bin\Debug\CertMaker.dll
+E:\Projects\proxyTest\proxyTest\bin\Debug\FiddlerCore4.dll
+E:\Projects\proxyTest\proxyTest\obj\Debug\proxyTest.exe
+E:\Projects\proxyTest\proxyTest\obj\Debug\proxyTest.pdb
